@@ -1,6 +1,6 @@
 @extends('layouts/fullLayoutMaster')
 
-@section('title', 'Login Page')
+@section('title', 'Login Pages 12345')
 
 @section('page-style')
 {{-- Page Css files --}}
