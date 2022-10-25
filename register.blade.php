@@ -1,6 +1,6 @@
 @extends('layouts/fullLayoutMaster')
 
-@section('title', 'Register Page')
+@section('title', 'Register Pagess123')
 
 @section('page-style')
 {{-- Page Css files --}}
